@@ -1,0 +1,42 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Mosaic: Trace Mode",
+        "command": "mosaic-atom:toggleTraceMode"
+      },
+      {
+        "label": "Mosaic: Toggle Helper",
+        "command": "mosaic-atom:toggleHelpPanel"
+      },
+      {
+        "label": "Mosaic: Toggle Debugger",
+        "command": "mosaic-atom:toggleDebugger"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "mosaic-atom",
+          "submenu": [
+            {
+              "label": "Trace mode",
+              "command": "mosaic-atom:toggleTraceMode"
+            },
+            {
+              "label": "Debugger",
+              "command": "mosaic-atom:toggleDebugger"
+            },
+            {
+              "label": "Help",
+              "command": "mosaic-atom:toggleHelpPanel"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

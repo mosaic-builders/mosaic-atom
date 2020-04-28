@@ -1,10 +1,10 @@
 {
-  "name": "mosaic-rabbit-tracer-atom",
-  "main": "./lib/mosaic-rabbit-tracer-atom",
-  "version": "0.0.0",
+  "name": "mosaic-atom",
+  "main": "./lib/mosaic-atom",
+  "version": "1.0.0",
   "description": "A package for tracing from Atom!",
   "keywords": [],
-  "repository": "https://github.com/mosaic-builders/atom-rabbit",
+  "repository": "https://github.com/mosaic-builders/mosaic-atom",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
@@ -22,7 +22,7 @@
     }
   },
   "deserializers": {
-    "mosaic-rabbit-tracer-atom/MosaicRabbitTracerAtomView": "deserializeMosaicRabbitTracerAtomView",
-    "mosaic-rabbit-tracer-atom/DebuggerView": "deserializeDebuggerView"
+    "mosaic-atom/MosaicAtomView": "deserializeMosaicAtomView",
+    "mosaic-atom/DebuggerView": "deserializeDebuggerView"
   }
 }

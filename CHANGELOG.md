@@ -8,3 +8,6 @@ browser, the relevant line is selected in your Atom window.
 - Toggle Helper
 - Toggle Debugger
 - Toggle Build
+
+## 1.0.0 - First Published Release
+- Same functionality, but as a public package

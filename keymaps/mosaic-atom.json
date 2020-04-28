@@ -1,0 +1,7 @@
+{
+  "atom-workspace": {
+    "ctrl-alt-o": "mosaic-atom:toggleHelpPanel",
+    "ctrl-alt-d": "mosaic-atom:toggleDebugger",
+    "ctrl-alt-t": "mosaic-atom:toggleTraceMode"
+  }
+}
