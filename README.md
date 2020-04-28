@@ -8,12 +8,7 @@ the tracer in the browser.
 ## Installation
 
 1. First, make sure you have Atom installed. The `apm` package manager is required.
-2. Then, make sure you `cd atom-rabbit`.
-3. `apm link`
-4. `apm install`
-5. Now, reload the window (either `ctrl+option+cmd+L` or `cmd+shift+P` followed by `window:reload`).
-6. Check that the package was installed by clicking on the `Packages` tab in
-Atom, and verifying that `mosaic-rabbit-tracer-atom` exists.
+2. Then, in Atom, install `mosaic-atom`
 
 Now, launch the server and open a trace file (ex: `casita.js`) in the browser
 and in Atom, and enjoy!
