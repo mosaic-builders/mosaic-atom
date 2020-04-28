@@ -1,7 +1,7 @@
 {
   "name": "mosaic-atom",
   "main": "./lib/mosaic-atom",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "A package for tracing from Atom!",
   "keywords": [],
   "repository": "https://github.com/mosaic-builders/mosaic-atom",
