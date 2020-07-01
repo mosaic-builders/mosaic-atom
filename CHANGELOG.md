@@ -11,3 +11,6 @@ browser, the relevant line is selected in your Atom window.
 
 ## 1.0.0 - First Published Release
 - Same functionality, but as a public package
+
+## 1.2.1 - Second Published Release 
+- Removed Calibration 
