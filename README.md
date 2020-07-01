@@ -15,10 +15,7 @@ the tracer in the browser.
 Now, launch the server and open a trace file (ex: `casita.js`) in the browser
 and in Atom, and enjoy!
 
-## Calibration
-In order for calibration to work, you need to have the trace file active (your cursor must be in that file).
-
 ## Debugging Tips
-If nothing seems to happen when selecting a line or calibrating in the browser the first time you try it,
+If nothing seems to happen when selecting a line in the browser the first time you try it,
 you might have to reload your Atom window (`ctrl+option+cmd+L`). Then refresh your browser, and hopefully
 it should work. If not, create an Issue!
